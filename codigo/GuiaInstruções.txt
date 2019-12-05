@@ -1,0 +1,47 @@
+Autor(a): Letícia Saraiva Chaves
+
+--------------------------Instruções teclado--------------------------
+'q' -> Sair da aplicação
+'t' -> Alternar entre aplicar transformações no sistema global ou no objeto selecionado
+'n' -> Seleciona o próximo objeto no vector
+'b' -> Volta para o objeto selecionado anteriormente no vector
+'D' -> Deletar objeto selecionado do vector
+'d' -> Deletar último objeto do vector
+'e' -> Desenhar eixos locais (ou não desenhar)
+'I' -> Câmera vista de cima
+'i' -> Câmera vista de longe
+'r' -> Câmera vista de lado
+'P' -> Câmera padrão
+'S' -> Salvar todos os objetos (todos os seus atributos) do vetor em um arquivo
+'L' -> Carregar todos os objetos (todos os seus atributos) do vetor de um arquivo
+'O' -> Pode permitir incluir um objeto (ou não permitir)
+'p' -> Incluir um peixe
+'s' -> Incluir um tubarão
+'a' -> Incluir algas marinhas
+'h' -> Incluir cavalo marinho
+'w' -> Incluir bolhas d'água
+'B' -> Incluir barco
+'A' -> Incluir água viva
+
+
+'o' -> Ativar/Desativar projeção perspectiva
+'g' -> Ativar/Desativar projeção ortográfica
+'G' -> PROJEÇÃO ORTOGRÁFICA - Isometric, Dimetric, Trimetric
+	- 1ª Isometric
+	- 2ª Dimetric
+	- 3ª Trimetric
+'T' -> PROJEÇÃO ORTOGRÁFICA - Front-elevation, Side-elevation, Plan-elevation
+	- 1ª Front-elevation
+	- 2ª Side-elevation
+	- 3ª Plan-elevation
+'V' -> PROJEÇÃO PERSPECTIVA - Pontos de fuga
+	- 1ª 1-point
+	- 2ª 2-points
+	- 3ª 3-points
+
+'E' -> Mostrar sombra de todos os objetos no cenário
+'v' -> Alternar entre luz pontual e distante
+'M' -> Habilitar/Desabilitar sombra do objeto selecionado
+'l' -> Transladar o ponto de luz
+
+----------------------------------------------------------------------
